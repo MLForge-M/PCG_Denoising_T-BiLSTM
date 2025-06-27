@@ -1,4 +1,4 @@
-# T-BiLSTM: Transformer-BiLSTM Network for Denoising Phonocardiogram (PCG) Signals
+# Transformer-BiLSTM Network for Denoising Phonocardiogram Signals
 
 This repository contains the code and resources for our paper:
 
