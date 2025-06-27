@@ -15,8 +15,7 @@ The model is designed to suppress both ambient and internal noise while preservi
 ## Model Architecture
 
 The following diagram shows the high-level architecture of the proposed **T-BiLSTM** model:
-
-![Model Architecture](figures/tbilstm_architecture.png)
+![Model Architecture](figs/T-BiLSTM_model.png)
 
 Each decoder block after Decoder₅ receives the concatenated output features from the previous block and the corresponding transformer block. This enables context-aware refinement of the reconstructed signal. Skip connections are used to preserve spatial information and help model convergence. The final decoding layer uses a 1D convolution with `tanh` activation to reconstruct the clean heart sound waveform.
 
