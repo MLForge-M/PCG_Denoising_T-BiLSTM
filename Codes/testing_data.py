@@ -10,6 +10,7 @@ from config import *
 from model import TBiLSTMModel
 
 
+
 def parse_args():
     parser = argparse.ArgumentParser(description="Run inference and measure inference time.")
     parser.add_argument('--device', choices=['cpu', 'gpu'], default='cpu',
