@@ -4,7 +4,6 @@ import soundfile as sf
 import numpy as np
 import scipy.signal as signal
 
-
 def butter_bandpass_filter(data, lowcut=25, highcut=400, fs=1000, order=3):
     nyq = 0.5 * fs
     low = lowcut / nyq
