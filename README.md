@@ -18,5 +18,19 @@ The following diagram shows the high-level architecture of the proposed **T-BiLS
 ![Model Architecture](figs/T-BiLSTM_model.png)
 
 
-## Repository Structure
 
+## Quick Start Guide:
+
+## Dataset Preparation
+
+1. Download the datasets (see `data_link.txt`).
+2. Run `preprocessing_data.py` to filter, normalize, and segment the audio.
+3. Processed data will be saved in your specified output folder.
+
+## Training
+
+Run `Codes/training_model.py` to start training the T-BiLSTM model on the processed data.
+
+## Testing
+
+Run `Codes/testing_data.py` to evaluate the trained model and compute performance metrics.
