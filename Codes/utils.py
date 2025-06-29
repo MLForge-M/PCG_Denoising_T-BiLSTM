@@ -10,7 +10,6 @@ def gpu_test():
     if tf.test.is_gpu_available(cuda_only=False, min_cuda_compute_capability=None):
         return True
 
-
 def mix_fixed_SNR(Signal, Noise, Desired_SNR_dB):
     Npts = len(Signal);  # Number of input time samples
     Signal_Power = np.sum(abs(Signal) * abs(Signal)) / Npts
