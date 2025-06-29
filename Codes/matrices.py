@@ -2,6 +2,7 @@ import math
 import numpy as np
 import pandas as pd
 
+
 def SI_SNR(est, egs):
     '''
          Calculate the SNR indicator between the two audios. 
