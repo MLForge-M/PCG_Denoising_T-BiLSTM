@@ -40,7 +40,7 @@ def get_files_and_resample_update(sampling_rate_new, desired_length_seconds, loc
                                              duration=len(signal_data) / sampling_rate_new)
 
                 k = int(len(signal_data) / duration_samples)
-                if len(signal_data) in [9990, 10000, 3500, 4995, 5000]:
+                if len(signal_data) in [3000, 5000]:
                     xtem, ytem, ltem = [], [], []
                     for i in range(k):
                         x_segment = signal_data[i * duration_samples: (i + 1) * duration_samples]
