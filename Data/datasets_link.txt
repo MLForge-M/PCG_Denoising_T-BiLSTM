@@ -1,5 +1,4 @@
-The list of the deployed datasets:
-
+The list of the  datasets deployed in this study:
 
 1. Cardiac Disease Heart Sound (CDHS) - The heart sound data and manual labels are available at https://pan.baidu.com/s/1PHJO0ZSJds7NDur0CfpG2Q. The password is for the access is nk17. The matlab codes for this study are shared at https://github.com/tanghongdlut/signal-quality-assessment-of-heart-sound-signal.
 
