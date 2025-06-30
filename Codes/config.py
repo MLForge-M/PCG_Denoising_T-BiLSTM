@@ -10,7 +10,7 @@ path_Lung_Train  = r"Data_original\ICBHI Dataset (Processed)\train"
 # === Extended Data ===
 path_Heart_Train_Extended = r"Extended_Data\Data (Processed)\train"
 
-# === Validation Data ===
+# === Testing Data ===
 pathheartVal     = r"Datasets\OAHS Dataset\Git_val"
 pathlungval      = r"Datasets\ICBHI Dataset (Processed)\val"
 pathhospitalval  = r"Datasets\Hospital Ambient Noise (HAN) Dataset"
