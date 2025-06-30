@@ -36,7 +36,7 @@ This section outlines the essential steps to prepare the data, train the model, 
      - Apply a bandpass filter (25–400 Hz),
      - Remove spikes and stationary noise,
      - Normalize signals to [-1, 1],
-   - Output will be stored in the folder you specify in the script.
+   - Output files will be stored in the folder you specify in the script.
 
 ---
 
