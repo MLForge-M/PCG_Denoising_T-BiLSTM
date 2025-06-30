@@ -1,13 +1,13 @@
 # Transformer-BiLSTM Network for Denoising Phonocardiogram Signals
 
-This repository contains the code and other resources deployed in our study:
+This repository contains the code and links to the deployed datasets for our study entitled:
 
 **"A Robust Deep Learning based Model for Denoising Phonocardiogram Signals in Clinical Environments"**
 
 We proposed a novel deep learning architecture for denoising real-world phonocardiogram (PCG) signals. The model, named **T-BiLSTM**, combines a convolutional U-Net backbone with **Bidirectional LSTM layers** and **transformer blocks with multi-head attention** to effectively remove both ambient and physiological noise from heart sound recordings.
 
 
-To allow e fair benchamrk with the other models published in the literature, some parts of the implementation, i.e., config.py, matrices.py  and utils.py , coming from the original LU-Net implementation by Shams Nafisa Ali et al.: 🔗 [https://github.com/ShamsNafisaAli/LU-Net-Heart-Sound-Denoising-](https://github.com/ShamsNafisaAli/LU-Net-Heart-Sound-Denoising-), were re-used. We acknowledge and thank the authors for making their code accessible to the community.
+To allow e fair benchamrk with the other models published in the literature, some scripts, i.e., config.py, matrices.py and utils.py, coming from the original LU-Net implementation developed by Shams Nafisa Ali et al.: 🔗 [https://github.com/ShamsNafisaAli/LU-Net-Heart-Sound-Denoising-](https://github.com/ShamsNafisaAli/LU-Net-Heart-Sound-Denoising-), were re-used in our implementations. We acknowledge and thank the authors for making their code accessible to the community.
 
 
 ## Model Architecture
