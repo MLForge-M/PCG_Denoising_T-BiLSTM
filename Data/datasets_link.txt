@@ -1,0 +1,17 @@
+1. Cardiac Disease Heart Sound (CDHS) - The heart sound data and manual labels are available at https://pan.baidu.com/s/1PHJO0ZSJds7NDur0CfpG2Q. The password is for the access is nk17. The matlab codes for this study are shared at https://github.com/tanghongdlut/signal-quality-assessment-of-heart-sound-signal.
+
+2. PhysioNet/Computing in Cardiology 2016 (CinC16) - https://archive.physionet.org/pn3/challenge/2016/
+
+3. CirCor DigiScope 2022 (CirCor22) -  https://physionet.org/content/circor-heart-sound/1.0.3/
+
+4. Heart Sounds Catania 2011 (HSCT-11) - http://www.diit.unict.it/hsct11/
+
+5. The Open-Access Heart Sound(OAHS) - https://github.com/yaseen21khan/Classification-of-Heart-Sound-Signal-Using-Multiple-Features-
+
+6. Pascal -  https://www.peterjbentley.com/heartchallenge/
+
+7. ZCHSound - http://zchsound.ncrcch.org.cn/
+
+8. Hospital Ambient Noise (HAN) - https://www.kaggle.com/datasets/nafin59/hospital-ambient-noise
+
+9. International Conference on Biomedical Health Informatics (ICBHI) -  https://bhichallenge.med.auth.gr/ICBHI_2017_Challenge
