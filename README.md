@@ -60,7 +60,7 @@ This section outlines the essential steps to prepare the data, train the model, 
 Make sure to adjust paths and parameters in `config.py` before starting the pipeline.
 
 ---
----
+
 
 ## Citation
 
