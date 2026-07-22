@@ -59,9 +59,7 @@ This section outlines the essential steps to prepare the data, train the model, 
 
 Make sure to adjust paths and parameters in `config.py` before starting the pipeline.
 
-````markdown
 ---
-
 ## Citation
 If you use this repository, the T-BiLSTM model, or any part of the provided source code in your research, please cite the following article:
 
@@ -78,4 +76,4 @@ M. Jakubec, E. Lieskovska, and P. Pocta, “A robust deep learning based model f
   doi     = {10.1016/j.engappai.2025.112286},
   url     = {https://doi.org/10.1016/j.engappai.2025.112286}
 }
-
+---
