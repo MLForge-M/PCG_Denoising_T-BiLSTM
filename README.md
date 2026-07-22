@@ -60,12 +60,18 @@ This section outlines the essential steps to prepare the data, train the model, 
 Make sure to adjust paths and parameters in `config.py` before starting the pipeline.
 
 ---
-Citation
-
-If you use this repository, the T-BiLSTM model, or any part of the provided source code in your research, please cite the following article:
-
-M. Jakubec, E. Lieskovska, and P. Pocta, “A robust deep learning based model for denoising phonocardiogram signals in clinical environments,” Engineering Applications of Artificial Intelligence, vol. 161, art. no. 112286, 2025. https://doi.org/10.1016/j.engappai.2025.112286
 ---
+
+## Citation
+
+If you use this repository, the **T-BiLSTM** model, or any part of the provided source code in your research, please cite the following article:
+
+**M. Jakubec, E. Lieskovska, and P. Pocta**  
+“A robust deep learning based model for denoising phonocardiogram signals in clinical environments,”  
+*Engineering Applications of Artificial Intelligence*, vol. 161, article 112286, 2025.  
+[https://doi.org/10.1016/j.engappai.2025.112286](https://doi.org/10.1016/j.engappai.2025.112286)
+
+```bibtex
 @article{Jakubec2025,
   author  = {Jakubec, Maros and Lieskovska, Eva and Pocta, Peter},
   title   = {A robust deep learning based model for denoising phonocardiogram signals in clinical environments},
@@ -77,3 +83,4 @@ M. Jakubec, E. Lieskovska, and P. Pocta, “A robust deep learning based model f
   doi     = {10.1016/j.engappai.2025.112286},
   url     = {https://doi.org/10.1016/j.engappai.2025.112286}
 }
+```
